@@ -5,6 +5,7 @@ To Run the Code:
 
 ts-node src/runner.ts --platform (Platform Name)
 
-Exampple:
+Example:
+
 - ts-node src/runner.ts --platform web
--ts-node src/runner.ts --platform mobile
+- ts-node src/runner.ts --platform mobile
