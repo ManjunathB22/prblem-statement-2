@@ -1,5 +1,5 @@
 # Handling multiple platforms in typescript
-Creating seperate instance while choosing the platoform through command line.
+Creating seperate instance while choosing the platform through command line.
 
 To Run the Code:
 
