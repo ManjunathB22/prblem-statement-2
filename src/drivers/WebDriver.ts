@@ -1,4 +1,3 @@
-// src/drivers/WebDriver.ts
 import { Driver } from "./Driver";
 
 export class WebDriver extends Driver {
